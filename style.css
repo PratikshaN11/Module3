@@ -1,0 +1,115 @@
+*{
+	box-sizing:border-box;
+}
+h1 {
+	font-family:brushstroke,fantasy;
+	color:#000000;
+}
+p{
+	padding:10px;
+	margin:0;
+}
+.container-fluid{
+	border:none;
+	margin-left:auto;
+	margin-left:auto;
+	margin-top:10px;
+	margin-bottom:10px;
+	padding:10px;
+}
+#chicken-1{
+	text-align:center;
+	color: solid black;
+	font-weight:bold;
+}
+#beef-1{
+	text-align:center;
+	color:solid black;
+	font-weight:bold;
+}
+#sushi-1{
+    text-align:center;
+	color:solid black;
+	font-weight:bold;
+}
+.navbar{
+	border:2px solid black;
+	border-radius:0px;
+	background-color:gray;
+}
+.navbar-brand{
+	font-size:35px;
+	color:white;
+	padding-left:25px;
+}
+.navbar-brand:hover{
+	color:white;
+}
+.nav{
+	margin:0;
+	padding:0;
+}
+.navbar-nav{
+	font-size:25px;
+	text-align:center;
+	margin:0;
+	padding:0;
+}
+.navbar-toggle{
+	border:2px solid black;
+	margin-right:25px;
+}
+.icon-bar{
+	background-color:white;
+	color:solid black;
+}
+.title{
+	margin-bottom:15px;
+	text-align:center;
+	color:solid black;
+	font-size:50px;
+	font-family:"Comic Sans Ms",cursive,sans-serif;
+	font-weight:bold;
+}
+li{
+	box-sizing:border-box;
+	width:100%;
+}
+.menu-item{
+	padding:0;
+	margin:0;
+	width:100%;
+	background-color:white;
+	border-bottom:1px solid black;
+	color:black;
+	display:block;
+}
+.menu-item:hover{
+	background-color:rgba(0,0,0,0.9);
+	color:rgba(0,0,0,0.4);
+}
+.row{
+	margin:20px;
+}
+.content{
+	margin:20px;
+	width:auto;
+	height:700px;
+	font-size:50px;
+	color:black;
+	background-color:gray;
+	font-family:"Comic Sans Ms",cursive,sans-serif;
+	padding:20px;
+	overflow:auto;
+}
+.item-name{
+	text-align:center;
+	font-size:20px;
+	font-weight:bold;
+}
+#top{
+	
+}
+hr{
+	border-bottom-color:white;
+}
